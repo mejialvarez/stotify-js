@@ -1,0 +1,27 @@
+body {
+  background-color: #f5f5f2;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px; 
+}
+
+.songs .song {
+  margin-top: 20px;
+}
+
+.songs .song img {
+  width: 150px;
+}
+
+.songs .song h2 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.songs .song h3 {
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
