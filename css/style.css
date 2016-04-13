@@ -25,3 +25,12 @@ h1 {
   margin-top: 5px;
   margin-bottom: 20px;
 }
+
+.songs .not-found {
+  background-color: #EDBC6C;
+  color: #FFFFFF;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 15px;
+  width: 300px;
+}
